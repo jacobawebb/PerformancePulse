@@ -14,7 +14,7 @@ ProcessorPulse is a comprehensive CPU benchmarking tool that evaluates single-th
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ProcessorPulse.git
+   git clone https://github.com/jacobawebb/ProcessorPulse.git
    ```
 2. Navigate to the project directory:
    ```bash
