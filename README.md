@@ -20,17 +20,13 @@ ProcessorPulse is a comprehensive CPU benchmarking tool that evaluates single-th
    ```bash
    cd ProcessorPulse
    ```
-3. Install the required dependencies (if any):
+3. Run the benchmarking tool:
    ```bash
-   npm install
-   ```
-4. Run the benchmarking tool:
-   ```bash
-   node cpu-benchmark.js
+   node benchmark.js
    ```
 
 ## Configuration
-Customize the benchmarking tests by modifying the `CONFIG` object in `cpu-benchmark.js`:
+Customize the benchmarking tests by modifying the `CONFIG` object in `benchmark.js`:
 ```javascript
 const CONFIG = {
     fibTest: {
