@@ -1,7 +1,7 @@
-# ProcessorPulse
+# PerformancePulse
 
 ## Description
-ProcessorPulse is a comprehensive CPU benchmarking tool that evaluates single-threaded and multi-threaded performance, as well as memory access speed. Customize test parameters and get detailed results saved to a text file for easy comparison. Run multiple tests to ensure accuracy and consistency.
+PerformancePulse is a comprehensive CPU benchmarking tool that evaluates single-threaded and multi-threaded performance, as well as memory access speed. Customize test parameters and get detailed results saved to a text file for easy comparison. Run multiple tests to ensure accuracy and consistency.
 
 ## Features
 - **Single-Threaded Performance**: Measures the CPU's efficiency in handling single-threaded tasks using Fibonacci calculations.
@@ -14,11 +14,11 @@ ProcessorPulse is a comprehensive CPU benchmarking tool that evaluates single-th
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jacobawebb/ProcessorPulse.git
+   git clone https://github.com/jacobawebb/PerformancePulse.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ProcessorPulse
+   cd PerformancePulse
    ```
 3. Run the benchmarking tool:
    ```bash
